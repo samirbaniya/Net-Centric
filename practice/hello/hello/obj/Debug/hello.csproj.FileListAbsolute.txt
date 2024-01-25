@@ -1,0 +1,7 @@
+D:\Documents\net centric\hello\hello\bin\Debug\hello.exe.config
+D:\Documents\net centric\hello\hello\bin\Debug\hello.exe
+D:\Documents\net centric\hello\hello\bin\Debug\hello.pdb
+D:\Documents\net centric\hello\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+D:\Documents\net centric\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+D:\Documents\net centric\hello\hello\obj\Debug\hello.exe
+D:\Documents\net centric\hello\hello\obj\Debug\hello.pdb

@@ -1,0 +1,7 @@
+D:\Documents\net centric\labquestions\QNo2a\QNo2a\bin\Debug\QNo2a.exe.config
+D:\Documents\net centric\labquestions\QNo2a\QNo2a\bin\Debug\QNo2a.exe
+D:\Documents\net centric\labquestions\QNo2a\QNo2a\bin\Debug\QNo2a.pdb
+D:\Documents\net centric\labquestions\QNo2a\QNo2a\obj\Debug\QNo2a.csproj.AssemblyReference.cache
+D:\Documents\net centric\labquestions\QNo2a\QNo2a\obj\Debug\QNo2a.csproj.CoreCompileInputs.cache
+D:\Documents\net centric\labquestions\QNo2a\QNo2a\obj\Debug\QNo2a.exe
+D:\Documents\net centric\labquestions\QNo2a\QNo2a\obj\Debug\QNo2a.pdb

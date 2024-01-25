@@ -1,0 +1,7 @@
+D:\Documents\net centric\labquestions\QNo1\QNo1\bin\Debug\QNo1.exe.config
+D:\Documents\net centric\labquestions\QNo1\QNo1\bin\Debug\QNo1.exe
+D:\Documents\net centric\labquestions\QNo1\QNo1\bin\Debug\QNo1.pdb
+D:\Documents\net centric\labquestions\QNo1\QNo1\obj\Debug\QNo1.csproj.AssemblyReference.cache
+D:\Documents\net centric\labquestions\QNo1\QNo1\obj\Debug\QNo1.csproj.CoreCompileInputs.cache
+D:\Documents\net centric\labquestions\QNo1\QNo1\obj\Debug\QNo1.exe
+D:\Documents\net centric\labquestions\QNo1\QNo1\obj\Debug\QNo1.pdb
