@@ -1,0 +1,7 @@
+D:\Documents\net centric\labquestions\QNo4usingfunction\QNo4usingfunction\bin\Debug\QNo4usingfunction.exe.config
+D:\Documents\net centric\labquestions\QNo4usingfunction\QNo4usingfunction\bin\Debug\QNo4usingfunction.exe
+D:\Documents\net centric\labquestions\QNo4usingfunction\QNo4usingfunction\bin\Debug\QNo4usingfunction.pdb
+D:\Documents\net centric\labquestions\QNo4usingfunction\QNo4usingfunction\obj\Debug\QNo4usingfunction.csproj.AssemblyReference.cache
+D:\Documents\net centric\labquestions\QNo4usingfunction\QNo4usingfunction\obj\Debug\QNo4usingfunction.csproj.CoreCompileInputs.cache
+D:\Documents\net centric\labquestions\QNo4usingfunction\QNo4usingfunction\obj\Debug\QNo4usingfunction.exe
+D:\Documents\net centric\labquestions\QNo4usingfunction\QNo4usingfunction\obj\Debug\QNo4usingfunction.pdb

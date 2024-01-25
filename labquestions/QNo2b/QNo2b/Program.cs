@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QNo2a
+namespace QNo2b
 {
     internal class Program
     {
@@ -18,17 +18,16 @@ namespace QNo2a
             while (b > 0)
             {
                 r = b % 10;
-                
-                s=s*10+r; //(reverse and palindrome)
+                s = (int)(s + Math.Pow(r, 3));
                 b = b / 10;
             }
             if (s == a)
             {
-                Console.WriteLine("Palindrome number");
+                Console.WriteLine("Armstrong number");
             }
             else
             {
-                Console.WriteLine("Not Palindrome");
+                Console.WriteLine("Not armstrong");
             }
             Console.ReadLine();
 

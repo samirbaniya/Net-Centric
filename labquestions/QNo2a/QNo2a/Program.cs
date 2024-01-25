@@ -18,16 +18,17 @@ namespace QNo2a
             while (b > 0)
             {
                 r = b % 10;
-                s = (int)(s + Math.Pow(r, 3));
+                
+                s=s*10+r; //(reverse and palindrome)
                 b = b / 10;
             }
             if (s == a)
             {
-                Console.WriteLine("Armstrong number");
+                Console.WriteLine("Palindrome number");
             }
             else
             {
-                Console.WriteLine("Not armstrong");
+                Console.WriteLine("Not Palindrome");
             }
             Console.ReadLine();
 

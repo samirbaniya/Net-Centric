@@ -10,6 +10,19 @@ namespace QNo3
     {
         static void Main(string[] args)
         {
+            int fact, i, n;
+            fact = 1;
+
+            Console.WriteLine("Enter number whose factorial is to be calculated: ");
+            n = int.Parse(Console.ReadLine());
+
+            for (i = 2; i <= n; i++) 
+            {
+                fact = fact * i;
+            }
+
+            Console.WriteLine($"The factorial of {n} is {fact}.");
+            Console.ReadLine();
 
         }
     }
