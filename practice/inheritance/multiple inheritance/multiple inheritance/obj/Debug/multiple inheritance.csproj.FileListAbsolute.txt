@@ -1,0 +1,7 @@
+D:\Documents\net centric\practice\inheritance\multiple inheritance\multiple inheritance\bin\Debug\multiple inheritance.exe.config
+D:\Documents\net centric\practice\inheritance\multiple inheritance\multiple inheritance\bin\Debug\multiple inheritance.exe
+D:\Documents\net centric\practice\inheritance\multiple inheritance\multiple inheritance\bin\Debug\multiple inheritance.pdb
+D:\Documents\net centric\practice\inheritance\multiple inheritance\multiple inheritance\obj\Debug\multiple inheritance.csproj.AssemblyReference.cache
+D:\Documents\net centric\practice\inheritance\multiple inheritance\multiple inheritance\obj\Debug\multiple inheritance.csproj.CoreCompileInputs.cache
+D:\Documents\net centric\practice\inheritance\multiple inheritance\multiple inheritance\obj\Debug\multiple inheritance.exe
+D:\Documents\net centric\practice\inheritance\multiple inheritance\multiple inheritance\obj\Debug\multiple inheritance.pdb
