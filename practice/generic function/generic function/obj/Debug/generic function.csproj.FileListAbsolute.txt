@@ -1,0 +1,7 @@
+D:\Documents\net centric\practice\generic function\generic function\bin\Debug\generic function.exe.config
+D:\Documents\net centric\practice\generic function\generic function\bin\Debug\generic function.exe
+D:\Documents\net centric\practice\generic function\generic function\bin\Debug\generic function.pdb
+D:\Documents\net centric\practice\generic function\generic function\obj\Debug\generic function.csproj.AssemblyReference.cache
+D:\Documents\net centric\practice\generic function\generic function\obj\Debug\generic function.csproj.CoreCompileInputs.cache
+D:\Documents\net centric\practice\generic function\generic function\obj\Debug\generic function.exe
+D:\Documents\net centric\practice\generic function\generic function\obj\Debug\generic function.pdb
