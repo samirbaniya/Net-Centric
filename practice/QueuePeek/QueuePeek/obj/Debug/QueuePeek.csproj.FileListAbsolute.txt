@@ -1,0 +1,7 @@
+D:\Documents\net centric\practice\QueuePeek\QueuePeek\bin\Debug\QueuePeek.exe.config
+D:\Documents\net centric\practice\QueuePeek\QueuePeek\bin\Debug\QueuePeek.exe
+D:\Documents\net centric\practice\QueuePeek\QueuePeek\bin\Debug\QueuePeek.pdb
+D:\Documents\net centric\practice\QueuePeek\QueuePeek\obj\Debug\QueuePeek.csproj.AssemblyReference.cache
+D:\Documents\net centric\practice\QueuePeek\QueuePeek\obj\Debug\QueuePeek.csproj.CoreCompileInputs.cache
+D:\Documents\net centric\practice\QueuePeek\QueuePeek\obj\Debug\QueuePeek.exe
+D:\Documents\net centric\practice\QueuePeek\QueuePeek\obj\Debug\QueuePeek.pdb
