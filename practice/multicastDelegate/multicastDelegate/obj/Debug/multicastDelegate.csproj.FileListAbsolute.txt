@@ -1,0 +1,7 @@
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\multicastDelegate\multicastDelegate\bin\Debug\multicastDelegate.exe.config
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\multicastDelegate\multicastDelegate\bin\Debug\multicastDelegate.exe
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\multicastDelegate\multicastDelegate\bin\Debug\multicastDelegate.pdb
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.csproj.AssemblyReference.cache
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.exe
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\multicastDelegate\multicastDelegate\obj\Debug\multicastDelegate.pdb
